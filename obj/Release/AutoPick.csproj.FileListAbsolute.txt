@@ -1,0 +1,9 @@
+F:\AP\AutoPick\bin\Release\AutoPick.exe
+F:\AP\AutoPick\bin\Release\AutoPick.pdb
+F:\AP\AutoPick\obj\Release\AutoPick.Form1.resources
+F:\AP\AutoPick\obj\Release\AutoPick.Form2.resources
+F:\AP\AutoPick\obj\Release\AutoPick.Form3.resources
+F:\AP\AutoPick\obj\Release\AutoPick.Properties.Resources.resources
+F:\AP\AutoPick\obj\Release\AutoPick.csproj.GenerateResource.Cache
+F:\AP\AutoPick\obj\Release\AutoPick.exe
+F:\AP\AutoPick\obj\Release\AutoPick.pdb

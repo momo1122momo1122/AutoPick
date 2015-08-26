@@ -1,0 +1,10 @@
+F:\AP\AutoPick\obj\Debug\AutoPick.csprojResolveAssemblyReference.cache
+F:\AP\AutoPick\obj\Debug\AutoPick.Form1.resources
+F:\AP\AutoPick\obj\Debug\AutoPick.Properties.Resources.resources
+F:\AP\AutoPick\obj\Debug\AutoPick.csproj.GenerateResource.Cache
+F:\AP\AutoPick\bin\Debug\AutoPick.exe
+F:\AP\AutoPick\bin\Debug\AutoPick.pdb
+F:\AP\AutoPick\obj\Debug\AutoPick.exe
+F:\AP\AutoPick\obj\Debug\AutoPick.pdb
+F:\AP\AutoPick\obj\Debug\AutoPick.Form2.resources
+F:\AP\AutoPick\obj\Debug\AutoPick.Form3.resources
